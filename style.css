@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+}
+
+nav {
+    background: rgb(146, 146, 146);
+    width: 100%;
+    height: 2.5em;
+    margin-bottom: 2em;
+}
+
+.main {
+    width: 67%;
+    margin: 0 auto;
+}
+
+.placeholder-img {
+    background-color: #ccc;
+}
+
+#is48x48 {
+    height: 48px;
+    width: 48px;
+}
+
+#is96x96 {
+    height: 96px;
+    width: 96px;
+}
+
+.newsletter {
+    float: right;
+    height: 400px;
+    width: 30%;
+    background: #ccc;
+}
+
+.largetitle {
+    height: 1.5em;
+    width: 10em;
+    background: rgb(146, 146, 146);
+    margin: 0.5em 0;
+}
+
+.mediumtitle {
+    height: 1.2em;
+    width: 10em;
+    background: rgb(146, 146, 146);
+    margin: 0.5em 0;
+}
+
+.smalltitle {
+    height: 1em;
+    width: 8em;
+    background-color: rgb(146, 146, 146);
+    margin: 0.5em 0;
+}
+
+.smalltext {
+    height: 0.7em;
+    width: 5em;
+    background: #ddd;
+    margin: 5px 0;
+}
+
+.normaltext {
+    height: 1em;
+    width: 60%;
+    background: #ccc;
+    margin: 5px 0;
+}
+
+.group-flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.group-item {
+    margin: 1em 1em 1em 0;
+}
+
+#centered {
+    margin: 0 auto;
+}
+
+.latest-articles {
+    width: 100%;
+    background-color: rgb(240, 240, 240);
+}
+
+#center-flex {
+    justify-content: space-around;
+}
+
+#center-flex .group-item {
+    width: 30%;
+}
+
+.container {
+    width: 67%;
+    margin: 0 auto;
+}
+
+#full {
+    width: 100%;
+}
+
+.white-box {
+    background-color: white;
+    height: 120px;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    width: 100px;
+    height: 1.1em;
+    background-color: #ccc;
+    margin: 0.5em;
+    border: transparent;
+    box-shadow: none;
+}
+
+.join-smash {
+    margin-left: 1em;
+    background-color: rgb(224, 224, 224);
+    height: 300px;
+    width: 364px;
+}
+
+.click {
+    background-color: rgb(146, 146, 146);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em 0;
+}
+
+#white {
+    background-color: rgb(224, 224, 224);
+}
+
+#is240x240 {
+    height: 240px;
+    width: 240px;
+}
+
+.guides {
+    background-color: rgb(236, 236, 236);
+    padding-top: 2em;
+}
+
+.longbox {
+    background-color: white;
+    width: 67%;
+    margin: 1em auto;
+    padding: 1em;
+}
+
+.largebtn {
+    width: 150px;
+    height: 1.25em;
+    background: rgb(146, 146, 146);
+}
+
+.email {
+    margin: 0 auto;
+    height: 400px;
+    width: 350px;
+    background: rgb(146, 146, 146);
+}
+
+.systems {
+    background-color: rgb(146, 146, 146);
+    padding: 2em;
+}
