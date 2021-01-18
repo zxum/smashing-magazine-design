@@ -178,3 +178,24 @@ button {
     background-color: rgb(146, 146, 146);
     padding: 2em;
 }
+
+.community {
+    width: 67%;
+    margin: 0 auto;
+}
+
+.otherpeople {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#half {
+    width: 50%;
+}
+
+footer.pagefooter {
+    height: 400px;
+    width: 100%;
+    background-color: rgb(146, 146, 146);
+}
